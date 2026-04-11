@@ -3,7 +3,7 @@
 
 // Product Data
 const products = [
-    // Electronics
+    // Electronic
     {
         id: 1,
         name: "Wireless Bluetooth Headphones",
