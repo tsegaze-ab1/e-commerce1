@@ -3,7 +3,7 @@
 
 // Product Data
 const products = [
-    // Electronic
+    // Electroni
     {
         id: 1,
         name: "Wireless Bluetooth Headphones",
