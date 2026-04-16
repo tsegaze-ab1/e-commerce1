@@ -1,5 +1,5 @@
 // E-commerce JavaScript Implementation
-// ShopEasy - Complete functionality 
+// ShopEasy - Complete functionality  
 
 // Product Data
 const products = [
